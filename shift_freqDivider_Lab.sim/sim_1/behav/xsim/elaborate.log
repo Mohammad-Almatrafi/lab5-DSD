@@ -1,0 +1,19 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/rur1k/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 98322c9ad011493caacd99a534412a72 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_counter_1hz_behav xil_defaultlib.tb_counter_1hz xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "/home/rur1k/Vpro/shift_freqDivider_Lab/shift_freqDivider_Lab.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.modN_counter(n=50)
+Compiling module xil_defaultlib.modN_clk(n=50)
+Compiling module xil_defaultlib.modN_counter(n=500)
+Compiling module xil_defaultlib.modN_clk(n=500)
+Compiling module xil_defaultlib.modN_counter(n=16)
+Compiling module xil_defaultlib.counter_1hz
+Compiling module xil_defaultlib.tb_counter_1hz
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_counter_1hz_behav

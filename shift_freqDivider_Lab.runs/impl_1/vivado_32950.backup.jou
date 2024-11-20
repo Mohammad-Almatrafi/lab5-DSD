@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Nov 20 09:32:55 2024
+# Process ID: 32950
+# Current directory: /home/rur1k/Vpro/shift_freqDivider_Lab/shift_freqDivider_Lab.runs/impl_1
+# Command line: vivado -log imp_clk_1hz.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source imp_clk_1hz.tcl -notrace
+# Log file: /home/rur1k/Vpro/shift_freqDivider_Lab/shift_freqDivider_Lab.runs/impl_1/imp_clk_1hz.vdi
+# Journal file: /home/rur1k/Vpro/shift_freqDivider_Lab/shift_freqDivider_Lab.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source imp_clk_1hz.tcl -notrace
