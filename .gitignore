@@ -1,0 +1,8 @@
+*
+!src
+!src/** 
+!shift_freqDivider_Lab.runs/** 
+!shift_freqDivider_Lab.runs
+!shift_freqDivider_Lab.xpr
+
+!.gitignore
